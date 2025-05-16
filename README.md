@@ -15,6 +15,7 @@ Traders are clearly looking for transparency. This **FXroad review** dives into:
 - Real user experiences  
 - Potential red flags
 
+![TradeEU Global Logo]()
 ---
 
 ## 🧩 What Is FXroad?
